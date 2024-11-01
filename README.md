@@ -343,7 +343,7 @@ Para realizar queries e validar se os dados existem:
 
 **db.order.find({ "products.product.code": "COMIC_BOOKS"})**
 
-## Autor
+## Créditos ao Autor que ministrou o Curso
 
 ### Victor Hugo Negrisoli
 ### Desenvolvedor de Software Back-End
